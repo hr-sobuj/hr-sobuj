@@ -1,4 +1,4 @@
-![Github Banner](assets/banner.jpg)
+![Github Banner](assets/banner-black.jpg)
 
 ## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi">
 

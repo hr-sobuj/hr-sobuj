@@ -23,7 +23,7 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 
 
-#### Things I code with
+#### Talks about
 
 [![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#) [![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white)](#) [![Competitive Programming Badge](https://img.shields.io/badge/Competitive%20Programming-FFD700?style=for-the-badge)](#) [![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)](#)
 

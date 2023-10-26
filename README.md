@@ -130,7 +130,8 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 #### Contact
 
-:email: &emsp;sobuj.hrs@gmail.com
-:email: &emsp;sobujhd@gmail.com
+:email: &emsp;[sobuj.hrs@gmail.com](mailto:sobuj.hrs@gmail.com)
+:email: &emsp;[sobujhd@gmail.com](mailto:sobujhd@gmail.com)
+
 
 

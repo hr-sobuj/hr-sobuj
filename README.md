@@ -1,78 +1,136 @@
-# Habibur Rahman - Web Developer
+![Github Banner](assets/banner.jpg)
 
-📧 Email: sobuj.hrs@gmail.com | 📞 Phone: +8801797-972527  
-📍 Location: Ishwardi, Pabna  
-🌐 GitHub: [hr-sobuj](https://github.com/hr-sobuj) | LinkedIn: [Habibur Rahman](https://www.linkedin.com/in/hr-sobuj) | Leetcode: [hr-sobuj](https://leetcode.com/hr-sobuj)
+## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi">
 
-## Objective
+I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I dedicate the majority of my time to coding and immersing myself in technology by reading articles and documentation, striving to stay at the forefront of the ever-evolving tech landscape.
 
-With over 1.5+ years of experience in web application development, I possess a strong focus on Object-Oriented Programming (OOP). My strong problem-solving skills are complemented by a sound understanding of data structures and algorithms. I am proficient in maintaining clean code, applying design patterns, and working effectively in teams.
+🌐 Connect with me!
 
-## Work Experience
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hr.sobuj.bd/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hr-sobuj/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hr-sobuj/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MdHabib44881730) [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hr_sobuj/) [![Mail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobuj.hrs@gmail.com)
 
-**Software Engineer**  
-*December 2022 - Present*  
-Position: Remote  
-Employer: [Confidential]
 
-- Full-stack web developer experienced in MERN stack.
-- Responsible for server maintenance and smooth operation.
-- Proficient in both frontend and backend development.
 
-**Full Time Web Developer**  
-*May 2022 - October 2022*  
-Position: Remote  
-Employer: SageByte
+🌱 &emsp;Dedicated to programming and knowledge sharing.
 
-- Collaborated in a team to develop visually appealing, responsive websites.
-- Translated design mockups into functional interfaces.
-- Optimized frontend performance for faster loading.
 
-**Python Developer**  
-*September 2021 - December 2021*  
-Position: Remote  
-Employer: OaMetrix
+💻 &emsp;My go-to lines of code: `cout<<"hello world!"<<endl;` and `console.log("hello world")`.
 
-- Employed as a Python Developer specializing in the Django framework.
-- Contributed to the development and maintenance of software projects at OaMetrix.
+🤝 &emsp;I'm actively seeking opportunities to contribute to open source projects and create innovative solutions.
 
-## Programming Skills
+📬 &emsp;Feel free to contact me at sobuj.hrs@gmail.com.
 
-- Solved more than 350+ programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
-- Participated in numerous Intra HSTU Programming Contests.
+🔬 &emsp;Passionate about critical thinking, mastering new technologies, and, above all, coding.
 
-## Skills
 
-- **Fluent:** Node.js, Express.js, ReactJS, JavaScript
-- **Comfortable:** Django, WordPress
-- **Languages:** C++, Python, PHP
-- **Data Stores:** MongoDB, Firebase Firestore, Firebase Real-time Database, MySQL
-- **Tools:** VS Code, Linters, Git, GitHub, GitLab
 
-## Projects
+#### Things I code with
 
-1. **Student Aid**  
-   - Backend | Frontend | [Live](#)
-   - Platform built using Node.js, Express.js, and React.js to assist financially disadvantaged students in fundraising for education.
-   - Utilized MongoDB with Mongoose for the database and implemented a Student Verification System.
-   - Integrated a secure Payment Gateway using SSLCOMMERZ.
+[![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#) [![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white)](#) [![Competitive Programming Badge](https://img.shields.io/badge/Competitive%20Programming-FFD700?style=for-the-badge)](#) [![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)](#)
 
-2. **Project Management Application**  
-   - Backend | Frontend | [Live](#)
-   - Track developer activity and project progress with the Django Rest Framework backend and React.js frontend.
-   - Developers update project status; managers create projects, assign developers, and generate work reports.
-   - Focus on scalability, performance, and user-friendly project visualization.
 
-3. **Chat Application**  
-   - Code | Backend | [Live](#)
-   - Live chat application with Node.js, Express.js, and Ejs for server development.
-   - MongoDB with Mongoose for the database, Socket.io for concurrent user connections.
-   - Custom authentication using pure Node.js and JWT generation.
 
-... (More Projects)
 
-## Education
+### Personal Projects
 
-- B.Sc. (Engg) in Computer Science and Engineering  
-  Hajee Mohammad Danesh Science and Technology University  
-  *Estimated graduation year 2023.*
+<table>
+    <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Technologies</th>
+        <th>Links</th>
+    </tr>
+    <tr>
+        <td>Student Aid</td>
+        <td>A comprehensive platform developed using Node.js, Express.js, and React.js to support financially disadvantaged students in fundraising for their education. It employs MongoDB with Mongoose for data storage and implements a robust Student Verification System. Additionally, it integrates a secure Payment Gateway using SSLCOMMERZ for safe transactions.</td>
+        <td>Node.js, Express.js, React.js, MongoDB, Mongoose</td>
+        <td><a href="https://github.com/hr-sobuj/student-aid-api">Backend</a>, <a href="https://github.com/hr-sobuj/student-aid-frontend">Frontend</a>, <a href="https://student-aid-frontend-gilt.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Project Management Application</td>
+        <td>Track developer activity and project progress with the Django Rest Framework backend and React.js frontend. Developers update project status; managers create projects, assign developers, and generate work reports. Focus on scalability, performance, and user-friendly project visualization.</td>
+        <td>Django Rest Framework, React.js</td>
+        <td><a href="https://github.com/hr-sobuj/project-management-api.git">Backend</a>, <a href="https://github.com/hr-sobuj/project-management-frontend.git">Frontend</a>,  <a href="https://project-management-frontend-two.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Chat Application</td>
+        <td>A live chat application developed with Node.js, Express.js, and Ejs for server-side development. It uses MongoDB with Mongoose for data storage and Socket.io for concurrent user connections. Custom authentication is implemented using pure Node.js, and JWT generation ensures security.</td>
+        <td>Node.js, Express.js, Ejs, MongoDB, Socket.io</td>
+        <td><a href="https://github.com/hr-sobuj/chat-application">Backend</a>, <a href="http://chat-application.hrsobuj.com/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Quiz Application</td>
+        <td>An authentication-based quiz application that allows users to play quizzes and provides detailed results with correct answers. It's built using React.js and utilizes Firebase for smooth functionality.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://jovial-lovelace-ec3130.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>CGPA Calculator</td>
+        <td>A user-friendly tool for easily calculating GPA and CGPA. It also offers the ability to design a cover page for university students. The project is built using React.js, providing a responsive and intuitive experience.</td>
+        <td>React.js</td>
+        <td><a href="https://cgpa-calculator-hstu.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Madrasatus Suffah</td>
+        <td>A school website with authentication features for teachers. Teachers have access to a dashboard where they can perform various activities, including publishing notices and sharing results. The platform is built using Django, ensuring a secure and efficient environment.</td>
+        <td>Django</td>
+        <td><a href="http://madrasatus-suffah.hrsobuj.com/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Publication</td>
+        <td>A simple online bookshop where users can browse and purchase books. It offers a user-friendly interface and secure transactions, making it easy for anyone to find and buy books they desire.</td>
+        <td>Django</td>
+        <td><a href="http://publication.hrsobuj.com/">Live</a></td>
+    </tr>
+    <tr>
+        <td>HSTU Transport System</td>
+        <td>A bus schedule system designed for HSTU students. Students can access updated bus schedules and request or acquire bus services from the university administration. The system is built using React.js and Firebase for efficient functionality.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://transport-management-system.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Blood Bank Management</td>
+        <td>A simple blood bank system that allows users to search for blood donors and register as donors. It facilitates a crucial aspect of healthcare by connecting those in need of blood with willing donors. The system is built using React.js and Firebase for efficiency.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://blood-donation-system-three.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Dashboard</td>
+        <td>A simple and elegant dashboard layout that can be customized for various purposes. It's built using Next.js for a responsive and efficient design.</td>
+        <td>Next.js</td>
+        <td><a href="https://admin-panel-reactjs-tailwindcss.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Portfolio Template</td>
+        <td>A clean and minimalistic portfolio template, ideal for showcasing your work and personal projects. It's built using HTML and CSS for easy customization.</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://habibur-rahman-sobuj-frontend.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Burger Builder</td>
+        <td>A fun and interactive React.js project that allows users to create custom burgers. It's integrated with Firebase for real-time data storage, creating an engaging experience for users.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://burger-builder-3abd7.web.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>eCommerce Template Design</td>
+        <td>A sleek and modern design for an online store. It's crafted using HTML and CSS, providing a visually appealing and functional template for e-commerce businesses.</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://hr-sobuj.github.io/eCommerce/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Blog Template Design</td>
+        <td>An elegant and user-friendly layout for bloggers. With its clean design and HTML/CSS foundation, it's a great choice for sharing your thoughts and content online.</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://hr-sobuj.github.io/blog/">Live</a></td>
+    </tr>
+</table>
+
+
+
+
+#### Contact
+
+:email: &emsp;sobuj.hrs@gmail.com
+:email: &emsp;sobujhd@gmail.com
+
+

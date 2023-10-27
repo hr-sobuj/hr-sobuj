@@ -168,6 +168,13 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
   `Express Auth Guard` is an NPM package designed to enhance security and user authentication within Express.js applications. My recent contribution to this project aimed to improve its functionality and overall codebase.
 
 
+### 📖 Latest Blog Posts
+
+- [Reversing a String in JavaScript with Array Destructuring](https://hr-sobuj.blogspot.com/2023/10/reversing-string-in-javascript-with.html)
+
+🔗 [Read More on My Blog](https://hr-sobuj.blogspot.com/)
+
+
 ### Contact
 
 :mailbox_with_mail: &emsp;[sobuj.hrs@gmail.com](mailto:sobuj.hrs@gmail.com)
@@ -192,5 +199,5 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 
 ### Articles Read
-<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="400" alt="Habibur Rahman's Dev Card"/></a>
 
+<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="500" height="auto" alt="Habibur Rahman's Dev Card"/></a>

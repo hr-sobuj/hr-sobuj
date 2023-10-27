@@ -1,4 +1,4 @@
-![Github Banner](assets/banner-black.jpg)
+![Github Banner](assets/banner-1.jpg)
 
 ## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi">
 
@@ -164,7 +164,7 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 
   **Overview** 
-  
+
   `Express Auth Guard` is an NPM package designed to enhance security and user authentication within Express.js applications. My recent contribution to this project aimed to improve its functionality and overall codebase.
 
 

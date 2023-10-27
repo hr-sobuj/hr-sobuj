@@ -159,7 +159,9 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 ### Open Source Projects & Contributions
 
 - **Express Auth Guard**
+
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen)](https://github.com/hr-sobuj/express-auth-guard) [![NPM Package](https://img.shields.io/badge/NPM-Package-brightgreen)](https://www.npmjs.com/package/express-auth-guard)
+
 
   **Overview** 
   `Express Auth Guard` is an NPM package designed to enhance security and user authentication within Express.js applications. My recent contribution to this project aimed to improve its functionality and overall codebase.

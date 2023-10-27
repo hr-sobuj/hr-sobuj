@@ -22,6 +22,43 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 🔬 &emsp;Passionate about critical thinking, mastering new technologies, and, above all, coding.
 
 
+### Skills
+
+**Languages:** 
+  ![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
+**Framework:** 
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933) ![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white) ![ReactJS Badge](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+**Database:** 
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=white)
+**Tools:** 
+   ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=white)
+
+
+### Work Experience
+
+- **Full Stack Web Developer**  
+  - [Employin](https://employin.co/), Remote, Part-time  
+  - December 2022 – Present
+    - Full-stack web developer experienced in MERN stack, with a primary focus on Node.js, Express.js, and React.js.
+    - Responsible for server maintenance and smooth operation.
+    - Proficient in both frontend and backend development.
+
+- **Full Stack Web Developer**  
+  - [SageByte](https://www.sagebyte.co/), Remote, Part-time 
+  - May 2022 - October 2022
+    - Collaborated in a team to develop visually appealing, responsive websites.
+    - Translated design mockups into functional interfaces using HTML, CSS, Tailwind CSS, and React.js to create an engaging user experience.
+    - Optimized frontend performance for faster loading.
+
+
+### Programming Skill
+
+- Solved more than **400+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
+- **Online Judges Handles:**
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/hr-sobuj/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/sobujhstu18) [![URI Online Judge](https://img.shields.io/badge/URI%20Online%20Judge-Profile-yellow)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-orange)](https://www.hackerrank.com/profile/hrsobuj) 
+
+
 
 #### Talks about
 
@@ -126,13 +163,35 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 </table>
 
 
+### Open Source Projects & Contributions
+
+- **Express Auth Guard**
+  [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen)](https://github.com/hr-sobuj/express-auth-guard) [![NPM Package](https://img.shields.io/badge/NPM-Package-brightgreen)](https://www.npmjs.com/package/express-auth-guard)
+
+  **Overview** 
+  `Express Auth Guard` is an NPM package designed to enhance security and user authentication within Express.js applications. My recent contribution to this project aimed to improve its functionality and overall codebase.
 
 
-#### Contact
+### Contact
 
 :mailbox_with_mail: &emsp;[sobuj.hrs@gmail.com](mailto:sobuj.hrs@gmail.com)
 
 :mailbox_with_mail: &emsp;[sobujhd@gmail.com](mailto:sobujhd@gmail.com)
+
+
+
+### Education
+
+- **Bachelor of Computer Science and Engineering (CSE)**
+  - Hajee Mohammad Danesh Science and Technology University, Dianjpur.
+  - Major: Computer Science and Engineering (CSE)
+  - Graduation Date: November 2023
+
+
+
+
+
+
 
 
 

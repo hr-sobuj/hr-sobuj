@@ -186,9 +186,9 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 ### GitHub Statistics
 
-![Habibur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true)
+![Habibur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj)
+
 
 ### &#128214; Articles Read
 <a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=6qg" width="400" alt="Habibur Rahman's Dev Card"/></a>

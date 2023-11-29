@@ -1,6 +1,6 @@
 ![Github Banner](assets/banner-1.jpg)
 
-## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi">
+## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi"> 
 
 I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I dedicate the majority of my time to coding and immersing myself in technology by reading articles and documentation, striving to stay at the forefront of the ever-evolving tech landscape.
 
@@ -197,6 +197,9 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj)
 
 
+
 ### Articles Read
 
 <a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="400" height="auto" alt="Habibur Rahman's Dev Card"/></a>
+
+![](https://komarev.com/ghpvc/?username=hr-sobuj)

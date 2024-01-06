@@ -1,8 +1,8 @@
-![Github Banner](assets/banner-1.jpg)
+![Github Banner](assets/new-banner.jpg)
 
 ## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi"> 
 
-I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I dedicate the majority of my time to coding and immersing myself in technology by reading articles and documentation, striving to stay at the forefront of the ever-evolving tech landscape.
+I'm Habibur, a Software Engineer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I dedicate the majority of my time to coding and immersing myself in technology by reading articles and documentation, striving to stay at the forefront of the ever-evolving tech landscape.
 
 🌐 Connect with me!
 
@@ -14,7 +14,7 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 💻 &emsp;My go-to lines of code: 
    - `cout<<"hello world!"<<endl;` (C++)
-   - `echo 'hello world!';` (PHP)
+   - `echo "hello world!";` (PHP)
    - `console.log("hello world")` (JavaScript)
 
 🤝 &emsp;Actively seeking opportunities to contribute to open source projects and create innovative solutions.

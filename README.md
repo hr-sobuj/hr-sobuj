@@ -12,14 +12,17 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 🌱 &emsp;Dedicated to programming and knowledge sharing.
 
+💻 &emsp;My go-to lines of code: 
+   - `cout<<"hello world!"<<endl;` (C++)
+   - `echo 'hello world!';` (PHP)
+   - `console.log("hello world")` (JavaScript)
 
-💻 &emsp;My go-to lines of code: `cout<<"hello world!"<<endl;` and `console.log("hello world")`.
-
-🤝 &emsp;I'm actively seeking opportunities to contribute to open source projects and create innovative solutions.
+🤝 &emsp;Actively seeking opportunities to contribute to open source projects and create innovative solutions.
 
 📬 &emsp;Feel free to contact me at sobuj.hrs@gmail.com.
 
 🔬 &emsp;Passionate about critical thinking, mastering new technologies, and, above all, coding.
+
 
 
 ### Skills
@@ -29,9 +32,14 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 ### Work Experience
 
+- **Trainee Associate Software Engineer**  
+  - [Softzino Technologies](https://softzino.com/), onsite, Full-time  
+  - December 2023 – Present
+    - Currently working as a trainee, gaining hands-on experience in software engineering.
+
 - **Full Stack Web Developer**  
   - [Employin](https://employin.co/), Remote, Part-time  
-  - December 2022 – Present
+  - December 2022 – October 2023
     - Full-stack web developer experienced in MERN stack, with a primary focus on Node.js, Express.js, and React.js.
     - Responsible for server maintenance and smooth operation.
     - Proficient in both frontend and backend development.
@@ -46,7 +54,7 @@ I'm Habibur, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 ### Programming Skill
 
-- Solved more than **400+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
+- Solved more than **500+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
 - **Online Judges Handles:**
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/hr-sobuj/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/sobujhstu18) [![URI Online Judge](https://img.shields.io/badge/URI%20Online%20Judge-Profile-yellow)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-orange)](https://www.hackerrank.com/profile/hrsobuj) 

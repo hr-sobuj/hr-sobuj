@@ -208,6 +208,6 @@ I'm Habibur, a Software Engineer from <img src="assets/bangladesh.png" width="18
 
 ### Articles Read
 
-<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/v2/cpRCQKDgvE8MhT3WRyV48.png?r=60d" width="356" alt="Habibur Rahman's Dev Card"/></a>
+<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/v2/cpRCQKDgvE8MhT3WRyV48.png?type=wide&r=zqi" width="652" alt="Habibur Rahman's Dev Card"/></a>
 
 ![](https://komarev.com/ghpvc/?username=hr-sobuj)

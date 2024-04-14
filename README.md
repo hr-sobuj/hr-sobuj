@@ -34,7 +34,7 @@ I'm Habibur, a Software Engineer from <img src="assets/bangladesh.png" width="18
 
 - **Trainee Associate Software Engineer**  
   - [Softzino Technologies](https://softzino.com/), onsite, Full-time  
-  - December 2023 – Present
+  - December 2023 – February 2024
     - Currently working as a trainee, gaining hands-on experience in software engineering.
 
 - **Full Stack Web Developer**  

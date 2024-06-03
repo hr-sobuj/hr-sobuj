@@ -32,10 +32,17 @@ I'm Habibur, a Software Engineer from <img src="assets/bangladesh.png" width="18
 
 ### Work Experience
 
+- **Software Engineer**  
+  - [Gigalogy](https://gigalogy.com/), onsite, Full-time  
+  - June 2024 – Present
+    - Currently working as a software engineer, gaining hands-on experience in software engineering.
+
 - **Trainee Associate Software Engineer**  
   - [Softzino Technologies](https://softzino.com/), onsite, Full-time  
   - December 2023 – February 2024
-    - Currently working as a trainee, gaining hands-on experience in software engineering.
+    - Acquired knowledge in data structures, algorithms, OOP, SOLID principles, and design patterns, alongside foundational knowledge of Linux.
+    - Skilled in JavaScript development with expertise in Agile methodologies like Scrum. Comfortable in office culture and collaborative team environments.
+    - Familiar with Docker for containerization.
 
 - **Full Stack Web Developer**  
   - [Employin](https://employin.co/), Remote, Part-time  

@@ -208,8 +208,6 @@ I'm Habibur, a Software Engineer from <img src="assets/bangladesh.png" width="18
 
 ### GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj&layout=compact)](https://github.com/hr-sobuj)
- ![Habibur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true) 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj)
 
 

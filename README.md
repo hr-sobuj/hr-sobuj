@@ -6,7 +6,7 @@
 I'm a dedicated Software Engineer from 🇧🇩 Bangladesh, passionate about building efficient, scalable, and user-friendly applications.  
 I focus on writing clean code, learning cutting-edge technologies, and solving real-world problems.
 
----
+
 
 ## 🛠️ Skills & Technologies
 
@@ -25,7 +25,7 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-314F7D?style=flat-square&logoColor=white)
 
----
+
 
 **Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -33,7 +33,7 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 💼 Experience
 
@@ -46,7 +46,7 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 - **Full Stack Web Developer** – [Employin](https://employin.co/) _(Dec 2022 – Oct 2023)_  
   Built and maintained MERN stack applications, ensuring smooth deployment and server maintenance.
 
----
+
 
 ## 🚀 Notable Projects
 
@@ -62,7 +62,7 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
   _Node.js, Express.js, MongoDB, Socket.io_  
   [Repo](https://github.com/hr-sobuj/chat-application) | [Live](http://chat-application.hrsobuj.com/)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -70,16 +70,16 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical) -->
 <p align="center" style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj&layout=compact&theme=radical" alt="Top Languages" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true&theme=radical" alt="GitHub Stats" width="330" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical" alt="GitHub Streak" width="349" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj&layout=compact&theme=radical" alt="Top Languages" width="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true&theme=radical" alt="GitHub Stats" width="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical" alt="GitHub Streak" width="180" />
 </p>
 
----
+
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hr-sobuj/)  
 📧 Email: [sobuj.hrs@gmail.com](mailto:sobuj.hrs@gmail.com)
 
----
+

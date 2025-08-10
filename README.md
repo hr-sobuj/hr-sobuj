@@ -70,9 +70,9 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical) -->
 <p align="center" style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj&layout=compact&theme=radical" alt="Top Languages" width="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true&theme=radical" alt="GitHub Stats" width="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical" alt="GitHub Streak" width="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj&layout=compact&theme=radical" alt="Top Languages" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true&theme=radical" alt="GitHub Stats" width="330" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical" alt="GitHub Streak" width="349" />
 </p>
 
 

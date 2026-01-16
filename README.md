@@ -1,4 +1,4 @@
-![Banner](assets/new-banner-1.jpg)
+<!-- ![Banner](assets/new-banner-1.jpg) -->
 
 # Hi, I'm Habibur Rahman 👋
 **Software Engineer | Backend & Full-Stack Development Enthusiast**

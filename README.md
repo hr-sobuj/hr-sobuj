@@ -48,7 +48,7 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 
 
 
-## 🚀 Notable Projects
+<!-- ## 🚀 Notable Projects
 
 - **Student Aid** – Fundraising platform for underprivileged students.  
   _Node.js, Express.js, React.js, MongoDB_  
@@ -60,7 +60,7 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 
 - **Chat Application** – Real-time chat app with custom authentication.  
   _Node.js, Express.js, MongoDB, Socket.io_  
-  [Repo](https://github.com/hr-sobuj/chat-application) | [Live](http://chat-application.hrsobuj.com/)
+  [Repo](https://github.com/hr-sobuj/chat-application) | [Live](http://chat-application.hrsobuj.com/) -->
 
 
 

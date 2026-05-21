@@ -62,9 +62,9 @@ I focus on writing clean code, learning cutting-edge technologies, and solving r
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical) -->
 <p align="center" style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj&theme=radical" alt="GitHub Streak" width="349" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hr-sobuj&theme=react-dark" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hr-sobuj&theme=react-dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hr-sobuj&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hr-sobuj&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hr-sobuj&theme=radical" /> -->
 </p>
 
 ## 📫 Contact
